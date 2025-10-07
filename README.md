@@ -1,2 +1,25 @@
-# shape-particle
-This project showcases a simple and attractive shape particle animation that can be used as a background effect for websites or web applications. It is easy to customize and integrates smoothly with modern web technologies. The project demonstrates how to create interactive particle effects to enhance the visual appearance of any webpage.
+#  Shape Particle Animation
+
+A **particle animation** using only HTML.  
+This project creates interactive moving shapes on the webpage.
+
+---
+
+##  Features
+- Interactive particle animation  
+- Built using **HTML only**  
+- Clean and simple code — perfect for beginners  
+
+---
+
+## 🚀 How to Use
+1. Download or clone the repository  
+2. Open `index.html` in your browser  
+3. Enjoy the particle animation  
+
+---
+
+
+
+
+
