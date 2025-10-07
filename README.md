@@ -13,9 +13,9 @@ This project creates interactive moving shapes on the webpage.
 ---
 
 ##  How to Use
-1. Download or clone the repository  
-2. Open `index.html` in your browser  
-3. Enjoy the particle animation  
+- Download or clone the repository  
+- Open `index.html` in your browser  
+- Enjoy the particle animation  
 
 ---
 
