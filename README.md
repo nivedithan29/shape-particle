@@ -8,7 +8,7 @@ This project creates interactive moving shapes on the webpage.
 ##  Features
 - Interactive particle animation  
 - Built using **HTML only**  
-- Clean and simple code — perfect for beginners  
+- Clean and simple code  
 
 ---
 
